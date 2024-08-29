@@ -28,6 +28,8 @@
 
 <p align="left"> <a href="https://twitter.com/inblognt" target="blank"><img src="https://img.shields.io/twitter/follow/inblognt?logo=twitter&style=for-the-badge" alt="inblognt" /></a> </p>
 
+# 💫 About Me:
+
 - 🔭 I’m currently working on [pending](https://github.com/inblognet)
 
 - 🌱 I’m currently learning **BEng in software engineering**
