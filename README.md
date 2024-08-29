@@ -47,7 +47,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [pending](https://github.com/inblognet)
+- 🔭 I’m currently working on [test projects php](https://github.com/inblognet)
 
 - 🌱 I’m currently learning **BEng in software engineering**
 
@@ -57,7 +57,7 @@
 
 - 👨‍💻 All of my projects are available at [patreon.com/user?u=52600963](patreon.com/user?u=52600963)
 
-- 📝 I regularly write articles on [pending](pending)
+- 📝 I regularly write articles on [](pending)
 
 - 💬 Ask me about **Php,C#,HTML.etc**
 
