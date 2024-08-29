@@ -47,16 +47,6 @@
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kishudilana"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/kishudilana" /></a></p>
 </center><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inblognet&show_icons=true&locale=en&layout=compact" alt="inblognet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inblognet&show_icons=true&locale=en" alt="inblognet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inblognet&" alt="inblognet" /></p>
-
-
-
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
