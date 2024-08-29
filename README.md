@@ -37,12 +37,7 @@
 <center>
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kishudilana"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/kishudilana" /></a></p>
-</center>
-<br>
-
-<br>
-
-
+</center><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inblognet&show_icons=true&locale=en&layout=compact" alt="inblognet" /></p>
 
