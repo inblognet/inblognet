@@ -116,6 +116,17 @@
   </ul>
 </div>
 
+
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/inblognt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inblognt" height="50" width="50" /></a>
+<a href="https://fb.com/sisil.milantha.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sisil.milantha.1" height="50" width="50" /></a>
+<a href="https://instagram.com/xkishudilanthax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xkishudilanthax" height="50" width="50" /></a>
+<a href="https://www.youtube.com/c/itzseec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itzseec" height="50" width="50" /></a>
+</p>
+
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
