@@ -22,11 +22,11 @@
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=inblognet&label&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=inblognet&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
   
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=inblognet&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inblognet" alt="inblognet" /></a> </p>
 
