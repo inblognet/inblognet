@@ -26,6 +26,8 @@
   
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=inblognet&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inblognet" alt="inblognet" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/inblognt" target="blank"><img src="https://img.shields.io/twitter/follow/inblognt?logo=twitter&style=for-the-badge" alt="inblognt" /></a> </p>
