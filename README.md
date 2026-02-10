@@ -55,7 +55,7 @@
 
 - 🤝 I’m looking for help with coding and learning
 
-- 👨‍💻 All of my projects are available at [patreon.com/user?u=52600963](patreon.com/user?u=52600963)
+- 👨‍💻 All of my projects are available at on this github
 
 - 📝 I regularly write articles on
 
