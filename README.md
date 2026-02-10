@@ -49,17 +49,17 @@
 
 - 🔭 I’m currently working contact me on whatsapp directly +94704283357
 
-- 🌱 I’m currently learning **BEng in software engineering**
+- 🌱 I’m completed  **BEng (Hons) in software engineering**
 
-- 👯 I’m looking to collaborate on [pending](https://github.com/inblognet)
+- 👯 I’m looking to collaborate add my github skanridegamerz@gmail.com
 
-- 🤝 I’m looking for help with [React coding](https://github.com/inblognet)
+- 🤝 I’m looking for help with coding and learning
 
 - 👨‍💻 All of my projects are available at [patreon.com/user?u=52600963](patreon.com/user?u=52600963)
 
-- 📝 I regularly write articles on [](pending)
+- 📝 I regularly write articles on
 
-- 💬 Ask me about **Php,C#,HTML.etc**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **kishudilantha@gmail.com**
 
