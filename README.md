@@ -47,7 +47,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [test projects php](https://github.com/inblognet)
+- 🔭 I’m currently working contact me on whatsapp directly +94704283357
 
 - 🌱 I’m currently learning **BEng in software engineering**
 
