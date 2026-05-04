@@ -10,9 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Kishu!;I'm+a+learning+developer...;I'm+a+software+undergraduate+student;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=inblognet&label=Profile%20Views&color=0&icon=2&pretty=false" />
-</a>
+
 
 <!-- TROPHY SECTION (horizontal) -->
 <div align="center">
