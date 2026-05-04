@@ -15,10 +15,10 @@
   <img src="https://visitcount.itsvg.in/api?id=inblognet&label=Profile%20Views&color=2&icon=5&pretty=false" alt="Profile Views">
 </div>
 
-<!-- TROPHY SECTION -->
+<!-- TROPHY SECTION (horizontal) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=inblognet&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
+    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=inblognet&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
   </a>
 </div>
 
@@ -38,32 +38,32 @@
 - 💬 Ask me about **anything**<br>
 - 📫 How to reach me: **kishudilantha@gmail.com**
 
-<!-- SOCIAL LINKS (full set with Discord) -->
+<!-- SOCIAL LINKS – HORIZONTAL FLEXBOX -->
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/1010nishant/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50">
   </a>
   <a href="https://twitter.com/inblognt" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="inblognt" height="50" width="50">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="50" width="50">
   </a>
   <a href="https://fb.com/sisil.milantha.1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sisil.milantha.1" height="50" width="50">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50">
   </a>
   <a href="https://instagram.com/xkishudilanthax" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xkishudilanthax" height="50" width="50">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="50">
   </a>
   <a href="https://www.youtube.com/c/itzseec" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itzseec" height="50" width="50">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="50" width="50">
   </a>
   <a href="https://discordapp.com/users/957722095381540874" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50">
+    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50">
   </a>
-</p>
+</div>
 
-<!-- LANGUAGES AND TOOLS -->
+<!-- LANGUAGES AND TOOLS – HORIZONTAL FLEXBOX (wrap & center) -->
 <h3 align="center">Languages and Tools (or currently learning):</h3>
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto;">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"></a>
@@ -88,29 +88,29 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></a>
   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"></a>
   <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"></a>
-</p>
+</div>
 
 <!-- SUPPORT SECTION -->
 <h3 align="center">Support:</h3>
 <div align="center">
   <a href="https://buymeacoffee.com/kishudilana">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee">
   </a>
 </div>
 
-<!-- GITHUB STATS & TOP LANGUAGES (fixed table) -->
+<!-- GITHUB STATS & TOP LANGUAGES (side‑by‑side table) -->
 <p align="center">
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=inblognet&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=inblognet&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats">
         <br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=inblognet&theme=dark&hide_border=false">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=inblognet&theme=dark&hide_border=false">
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=inblognet&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages">
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=inblognet&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages">
       </td>
-    </tr>
+    </table>
   </table>
 </p>
 
